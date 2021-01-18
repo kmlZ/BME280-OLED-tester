@@ -184,10 +184,8 @@ void setup(){
 
 }
      
-     
 void loop()
 {
   displayValues();
   delay(10000);
 }
-
